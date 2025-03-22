@@ -21,3 +21,7 @@ Download **ECS** and say goodbye to unwanted software bloat. Reclaim your storag
 *Note: ECS operates ethically and is not affiliated with Microsoft. Use in compliance with your local software regulations.*  
 
 👉 **Get ECS Now** — Your PC deserves freedom! 🚀
+
+
+# WARING
+microsoft edge and webview2 and other stuff will not work
