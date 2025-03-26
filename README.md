@@ -24,4 +24,4 @@ Download **ECS** and say goodbye to unwanted software bloat. Reclaim your storag
 
 
 # WARING
-microsoft edge and webview2 and other stuff will not work
+microsoft edge and webview2 and other stuff will not work so if you run it and want to use a app like visual studio you either have to fix it or reinstall windows 
